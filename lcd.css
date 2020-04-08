@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    position: absolute;
+    top: 20rem;
+    left: 59rem;
+    font-size: 4em;
+}
+
+#display{
+    margin: 25%;
+    align-content: center;
+}
+
+#stop{
+    position: absolute;
+    top: 55rem;
+    left: 65rem;
+    width: 10%;
+    height: 5%;
+    background-color: aqua;
+    color: antiquewhite;
+    border: 1em;
+    border-color: beige;
+    border-radius: 20rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
